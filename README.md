@@ -1,23 +1,3 @@
-# DrinkMixerBot
+# Interview me bot
 
-Telegram bot to find drinks by ingredients
-
-Uses [CocktailDB API](https://www.thecocktaildb.com/)
-
-
-### Usage
-
-Enter your ingredients (separated by **,**) like **rum,coffee**.
-
-
-### Commands
-
-| Command | Description |
-| :---:              |                   :--- |
-| **/repeat_ingredients** | Get another drink with same ingredients|
-| **/random_drink** | Get completely random drink
-| **/find_drink** | Find drink by name
-| **/about** | Show information about the bot and the author
-| **/usage** | Show usage
-
-### [Try it out!](https://t.me/DrinkMixerBot)
+Telegram bot to interview
